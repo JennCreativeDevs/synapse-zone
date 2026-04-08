@@ -1,1 +1,0 @@
-import React from 'react';export default function App() {  const wrap = { maxWidth: '1100px', margin: '0 auto', padding: '0 2'}}
