@@ -1,0 +1,1 @@
+import React from 'react';function App() {  return (    <div>      <h1>Welcome to Synapse Festival</h1>      <p>Experience the future of Caribbean arts and technology</p>    </div>  );}export default App;
